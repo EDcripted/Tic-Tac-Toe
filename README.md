@@ -57,5 +57,7 @@ A winningConditions array to check for win combinations.
 
 DOM manipulation to update the board and show messages.
 
-✍️ Made By
+DEMO LINK:
+http://tic-tac-toe-chi-drab.vercel.app
+
 Edcripted
